@@ -5,3 +5,7 @@ logs/
 
 # NEVER commit real credentials
 profiles.yml
+profiles.yml
+target/
+dbt_packages/
+logs/

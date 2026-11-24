@@ -9,3 +9,7 @@ profiles.yml
 target/
 dbt_packages/
 logs/
+profiles.yml
+target/
+dbt_packages/
+logs/
